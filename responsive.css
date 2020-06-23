@@ -1,0 +1,74 @@
+@media (max-width: 1000px) {
+    .content-box {
+      width: 50%;
+      
+    }
+  }
+
+  @media (max-width: 1000px) {
+    .content-box2 {
+      width: 50%;
+      
+    }
+  }
+  
+  @media (max-width: 1000px) {
+    .iklan-baris {
+        height:760px;
+    }
+  }
+  @media (max-width: 1000px) {
+    .main {
+        height:420px;
+    }
+  }
+ 
+
+  /*ini bagian header dari mbak kresna putri*/
+
+ /* @media (max-width: 1000px) {
+    .lesson {
+  
+    }
+  } */
+  
+  @media (max-width: 670px) {
+    .header-rigth {
+      display: none;
+    }
+  
+    .menu-icon {
+      display: block;
+    }
+  }
+
+  /* ini bagian isi ke 4 dari mas Joy Simanjuntak*/
+  @media all and (max-width: 670px) {
+    .btn {
+      width: 100%;
+    }
+  }
+
+  /
+@media only screen and (max-width: 568px) {
+  .jr-footer-list-top {
+    width: 100%;
+  }
+
+  .jr-footer-social-section {
+    justify-content: center;
+  }
+
+  .jr-footer-social-section::after {
+    top: 25%;
+  }
+
+  .jr-footer-social-connect {
+    margin-top: 10px;
+  }
+
+  .jr-footer-social-icons-wrapper {
+    width: 100%;
+    padding: 0;
+  }
+}
